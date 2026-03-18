@@ -1,4 +1,4 @@
-# 🛡️ Portfólio de Cibersegurança
+# 🛡️ Cybersecurity Portfolio
 
 Hi! My Names Victor and I am studying cybersecurity.
 
