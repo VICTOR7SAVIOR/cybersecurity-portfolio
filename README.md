@@ -1,11 +1,12 @@
 # 🛡️ Portfólio de Cibersegurança
 
-Olá! Me chamo Victor e estou estudando cibersegurança.
+Hi! My Names Victor and I am studying cybersecurity.
 
-## 📚 O que estou aprendendo:
-- Redes
+## 📚 What I am learning:
+- Networking fundamentals
+- IP, DNS and IPv4/IPv6
 - Linux
-- Segurança da informação
+- Information Security
 
 ## 🎯 Objetivo:
-Conseguir minha primeira oportunidade em TI
+Get My Firts opportunity in IT (internship or junior position)
